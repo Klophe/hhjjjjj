@@ -1,0 +1,1 @@
+execute @a[tag=aimbot] ~ ~ ~ tp @s ~ ~ ~ facing @e[r=5,c=1]
